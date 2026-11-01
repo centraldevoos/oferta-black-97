@@ -5,8 +5,8 @@ window.CONFIG = {
   // Esta versão (oferta-black-97): para quem viu o VIP a R$ 97. Tudo por R$ 197, por 2 anos, sem acesso extra (Pedro, 1/11/2026). A âncora é a soma dos valores × ANOS × ACESSOS.
   ANOS: 2,
   ACESSOS: 1,
-  // Parcela no cartão: a de R$ 197 no Hub.la (base/central-de-voos/negocio.md).
-  PARCELA: "12x de R$ 19,78",
+  // Parcela no cartão: 12x de R$ 20,02, informada pelo Pedro em 1/11/2026 para esta oferta.
+  PARCELA: "12x de R$ 20,02",
   // Quanto "só o VIP estava" para este público.
   PRECO_VIP_ANO: 97,
 
